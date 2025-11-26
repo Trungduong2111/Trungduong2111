@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=150&text=Hi,%20I'm%20Nguyen%20Trung%20Duong&fontSize=45&fontColor=bfdbfe&fontAlignY=45&desc=Frontend%20Developer%20%26%20Automation%20Tester&descSize=28&descAlignY=85" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,100:052e16&height=150&text=Hi,%20I%27m%20Nguyen%20Trung%20Duong&fontSize=50&fontColor=dcfce7&fontAlignY=45&animation=twinkling&desc=A%20Web%20Developer%20and%20Tester%20Automation&descSize=30&descAlignY=85&section=header" />
 
 I'm **Nguyễn Trùng Dương**, a passionate **Frontend Developer** and **Automation Tester**.  
 I specialize in building modern, scalable, and user-friendly web applications while ensuring high product stability through automated testing.
