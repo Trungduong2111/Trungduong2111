@@ -38,9 +38,9 @@ I enjoy learning new technologies, improving performance, and contributing to te
 
 ### 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ntrungduong&theme=react&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ntrungduong&theme=react&card_width=470)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntrungduong&card_width=495&langs_count=7&layout=compact&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Trungduong2111&theme=react&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trungduong2111&theme=react&card_width=470)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trungduong2111&card_width=495&langs_count=7&layout=compact&theme=react)
 
 ---
 
