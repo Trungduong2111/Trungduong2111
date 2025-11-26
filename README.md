@@ -4,7 +4,7 @@
 I'm **Nguyễn Trùng Dương**, a passionate **Frontend Developer** and **Automation Tester**.  
 I specialize in building modern, scalable, and user-friendly web applications while ensuring high product stability through automated testing.
 
-With strong experience in **Angular, TypeScript, JavaScript**, and test automation using **Java + Selenium**, I focus on creating clean UI/UX and reliable test coverage.  
+With strong experience in **Angular,Reactjs, TypeScript, JavaScript**, and test automation using **Java + Selenium**, I focus on creating clean UI/UX and reliable test coverage.  
 I enjoy learning new technologies, improving performance, and contributing to teams with both my development and testing skillset.
 
 ---
