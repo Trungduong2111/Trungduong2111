@@ -11,10 +11,10 @@ I enjoy learning new technologies, improving performance, and contributing to te
 
 ### 📫 Contact
 
-[![Mail Badge](https://img.shields.io/badge/-ntrungduong2002@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:ntrungduong2002@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-NguyenTrungDuong-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![GitHub Followers](https://img.shields.io/github/followers/ntrungduong?label=GitHub%20Followers)](https://github.com/ntrungduong)
-[![](https://komarev.com/ghpvc/?username=ntrungduong&color=blue&label=Profile%20Views)](https://github.com/ntrungduong)
+[![Mail Badge](https://img.shields.io/badge/-nguyentrungduong21111998a@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:nguyentrungduong21111998a@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-NguyenTrungDuong-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntrungduong)
+[![GitHub Followers](https://img.shields.io/github/followers/Trungduong2111?label=GitHub%20Followers)](https://github.com/Trungduong2111)
+[![](https://komarev.com/ghpvc/?username=Trungduong2111&color=blue&label=Profile%20Views)](https://github.com/Trungduong2111)
 
 ---
 
